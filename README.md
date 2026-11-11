@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am Nivrutti Chavan, an AI and Data Science student at IIT Madras and founder of Aviothic AI. I am currently building advanced healthcare and space-tech platforms using deep learning, FastAPI, React, and cloud deployment. My main project, Breast Insight Fusion AI, focuses on early breast cancer detection with explainable AI and high-accuracy imaging models. I am passionate about creating real-world AI systems, improving model performance, and deploying scalable SaaS products. I am looking for collaboration in AI/ML engineering, full-stack development, medical imaging research, and cloud deployment. Always learning, building, and pushing AI to make meaningful global impact.
+# 💫 About Me
+
+I am Nivrutti Chavan, a Data Science student at IIT Madras and an AI/ML Engineer with hands-on experience at Cisco Systems and KITE Robotics. I specialize in building production-oriented AI systems, scalable backend services, and data-driven applications using Python, FastAPI, PyTorch, Next.js, and cloud technologies.
+
+At Cisco, I worked on machine learning pipelines for network anomaly detection, processing approximately 800K events daily. At KITE Robotics, I engineered production RAG pipelines and LLM-powered learning solutions, improving AI evaluation scores from 70% to 93% and reducing response latency by 72.5%.
+
+My projects span healthcare AI and medical imaging, real-time market analytics, quantitative research, and volatility forecasting. I am particularly interested in deep learning, Generative AI, LLMs, explainable AI, quantitative modeling, and building reliable end-to-end software systems.
+
+I enjoy solving challenging engineering problems, experimenting with new technologies, and turning research ideas into practical products. I am open to opportunities and collaborations in AI/ML engineering, software engineering, quantitative research, and applied AI.
 
 
 # 💻 Tech Stack:
