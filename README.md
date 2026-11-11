@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me
 
 I am Nivrutti Chavan, a Data Science student at IIT Madras and an AI/ML Engineer with hands-on experience at Cisco Systems and KITE Robotics. I specialize in building production-oriented AI systems, scalable backend services, and data-driven applications using Python, FastAPI, PyTorch, Next.js, and cloud technologies.
